@@ -1,1 +1,1 @@
-This is my personal website. Pleazse visit [Apurv Shah][ApurvShah007.github.io]
+This is my personal website. Pleazse visit [Apurv Shah][https://apurvshah007.github.io]
