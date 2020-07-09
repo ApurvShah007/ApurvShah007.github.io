@@ -91,17 +91,30 @@ a, a:hover {
 
 .btn {
   font-size: 11px;
-  border-radius: 30px;
   padding-top: 15px;
   padding-bottom: 15px;
+  border-radius: 30px;
   padding-left: 30px;
   padding-right: 30px;
-  letter-spacing: .1rem;
+  letter-spacing: .2rem;
   text-transform: uppercase;
   font-weight: 900;
 }
 
+.bton{
+  font-size: 14px;
+  text-align: center
+  border-radius: 20px
+  padding-top: 25px;
+  padding-bottom: 25px;
+  padding-left: 35px;
+  padding-right: 35px;
+  letter-spacing: .2rem;
+  text-transform: uppercase;
+  font-weight: 900;
+}
 .btn:active, .btn:focus {
+
   outline: none;
   -webkit-box-shadow: none;
   box-shadow: none;
@@ -123,6 +136,10 @@ a, a:hover {
   background-color: #fff;
   color: #000;
 }
+
+
+
+
 
 #unslate_co--overlayer {
   width: 100%;
