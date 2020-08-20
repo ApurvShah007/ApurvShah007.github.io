@@ -11,6 +11,8 @@
 </br>
 </br>
 This is my personal website. Please visit [Apurv Shah](https://apurvshah007.github.io)
+
+I would love any suggestions or ideas from anyone and everyone. If you like this template, leave a ⭐️ .
 </br>
 </br>
 
